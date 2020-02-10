@@ -5,10 +5,11 @@ This project is the implimentation of OCR on the following image,
 
 ![image](2.jpg)
 
+## Colab Notebook for the Implemnation:
 [`OCRusingTesseract.ipynb`](OCRusingTesseract.ipynb) is the colab notebook of the OCR using Pytesseract
 
 ## Output:
-you will get following output at the end:
+you will get following output at the end of the notebook after executing each step:
 ```
 1.1 Whatis computer vision?
 
