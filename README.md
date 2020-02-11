@@ -7,7 +7,7 @@ This project is the implimentation of OCR on the following image,
 ![image](Images/2.jpg)
 
 ## Colab Notebook for the Implemnation:
-[`OCRusingTesseract.ipynb`](OCRusingTesseract.ipynb) is the colab notebook of the OCR using Pytesseract
+[`OCRusingTesseract.ipynb`](OCRusingTesseract.ipynb) is the colab notebook for the OCR using Pytesseract task
 
 ## Output:
 you will get following output at the end of the notebook after executing each step:
