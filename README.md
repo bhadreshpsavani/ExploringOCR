@@ -1,8 +1,9 @@
 # Optical Charactor Recognition using PyTesseract on Colab
 
+Here is the [`link`](https://medium.com/@bhadreshpsavani/how-to-use-tesseract-library-for-ocr-in-google-colab-notebook-5da5470e4fe0) of an article with the descriptions of all the steps i used.
+
 ## Input:
 This project is the implimentation of OCR on the following image,
-
 ![image](2.jpg)
 
 ## Colab Notebook for the Implemnation:
