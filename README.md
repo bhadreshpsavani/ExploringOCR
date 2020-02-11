@@ -4,7 +4,7 @@ Here is the [`link`](https://medium.com/@bhadreshpsavani/how-to-use-tesseract-li
 
 ## Input:
 This project is the implimentation of OCR on the following image,
-![image](2.jpg)
+![image](Images/2.jpg)
 
 ## Colab Notebook for the Implemnation:
 [`OCRusingTesseract.ipynb`](OCRusingTesseract.ipynb) is the colab notebook of the OCR using Pytesseract
